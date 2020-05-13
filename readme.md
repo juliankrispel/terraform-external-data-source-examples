@@ -1,6 +1,8 @@
 # Terraform external data source examples 
 
-To run any example:
+These examples were made for as part of [this blogpost](https://jkrsp.com/extending-terraform-with-external-data-sources/) on using terraform external data sources.
+
+## To run any example:
 
 ```bash
 cd <example>
